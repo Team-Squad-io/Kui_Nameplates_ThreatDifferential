@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Kui |cff9966ffNameplates|r Threat Differential
+## Notes: KuiNameplates module showing threat % and differential vs next highest.
+## Author: Shiftard - Kezan
+## Version: 1.0
+## Dependencies: Kui_Nameplates
+## LoadOnDemand: 0
+
+Core.lua
